@@ -1,0 +1,5 @@
+In this chapter, you'll learn how to build your first chatbot! 
+After gaining a bit of historical context, 
+you'll set up a basic structure for receiving text and responding to users,
+and then learn how to add the basic elements of personality.
+You'll then build rule-based systems for parsing text.

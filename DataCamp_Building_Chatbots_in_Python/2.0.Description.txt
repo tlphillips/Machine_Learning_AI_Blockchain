@@ -1,0 +1,3 @@
+Here, you'll use machine learning to turn natural language into structured data using spaCy, scikit-learn, and rasa NLU. 
+You'll start with a refresher on the theoretical foundations, and then move on to building models using the ATIS dataset, 
+which contains thousands of sentences from real people interacting with a flight booking system.

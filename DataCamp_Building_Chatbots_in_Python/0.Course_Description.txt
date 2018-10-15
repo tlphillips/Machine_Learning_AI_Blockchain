@@ -1,0 +1,8 @@
+Course Description
+When done well, interacting with a computer through human language is incredibly powerful and also quite fun. 
+Messaging and Voice-Controlled devices are the next big platforms, and conversational computing has a big role to play in creating engaging augmented and virtual reality experiences. 
+This course will get you started on the path towards building such applications! There are a number of unique challenges to building these kinds of programs. 
+The most obvious one is of course - how do I turn human language into machine instructions? In this course, you'll tackle this first with rule-based systems and then with machine learning. 
+Some chat systems are designed to be useful, while others are just good fun. 
+You will build one of each, and finally put everything together to make a helpful, friendly chatbot! And once you complete the course, you can learn how to connect your chatbot to Facebook Messenger!
+https://www.datacamp.com/community/tutorials/facebook-chatbot-python-deploy
