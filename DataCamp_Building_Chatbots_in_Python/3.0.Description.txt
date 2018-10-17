@@ -1,0 +1,2 @@
+In this chapter, you're going to build a personal assistant to help you plan a trip. 
+It will be able to respond to questions like "are there any cheap hotels in the north of town?" by looking inside a hotels database for matching results.

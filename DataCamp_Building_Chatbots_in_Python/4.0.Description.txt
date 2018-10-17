@@ -1,0 +1,3 @@
+Everything you've built so far has statelessly mapped intents to actions & responses.
+ It's amazing how far you can get with that! But to build more sophisticated bots you will always want to add some statefulness.
+  That's what you'll do here, as you build a chatbot that helps users order coffee. Have fun!
